@@ -2,3 +2,6 @@ This is my first text file
 
 
 I have added changes to the background
+
+
+This is my GitHub desktop changes
